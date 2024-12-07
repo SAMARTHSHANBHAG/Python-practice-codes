@@ -1,6 +1,6 @@
-score = 101
+score = int(input("Enter your score: "))
 
-if score >= 101:
+if score >= 101 or score < 0:
     print("Please verify your grade again")
     exit()
 

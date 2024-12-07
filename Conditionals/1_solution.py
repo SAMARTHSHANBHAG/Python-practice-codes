@@ -1,4 +1,4 @@
-age = 20
+age = int(input("Enter your age: "))
 
 if age < 13:
     print("Child")
