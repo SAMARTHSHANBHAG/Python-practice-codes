@@ -29,16 +29,16 @@ func()
 #     f2()
 # f1()
 
-def chaicoder(num):
-    def actual(x):
-        return x ** num
-    return actual
+# def chaicoder(num):
+#     def actual(x):
+#         return x ** num
+#     return actual
 
-f = chaicoder(2)
-g = chaicoder(3)
+# f = chaicoder(2)
+# g = chaicoder(3)
 
-print(f(3))
-print(g(3))
+# print(f(3))
+# print(g(3))
 
 
 
