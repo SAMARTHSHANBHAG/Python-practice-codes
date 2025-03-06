@@ -1,5 +1,5 @@
 age = 26
-day = "Wednesday"
+day = "wednesday"
 
 price = 12 if age >= 18 else 8
 
