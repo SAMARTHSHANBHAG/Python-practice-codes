@@ -51,7 +51,7 @@ class ElectricCar(Car):
 # print(my_car.model)
 
 
-# my_car = Car("Toyota", "Corolla")
+my_car = Car("Toyota", "Corolla")
 # print(my_car.brand)
 # print(my_car.model)
 # print(my_car.full_name())
